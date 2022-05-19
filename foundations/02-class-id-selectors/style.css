@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsla(355, 100%, 79%, 0.877);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.out {
+    font-size: 24px;
+}
+
+#numbuh2 {
+    color: #0000ff;
+    font-size: 36px
+}
+
+
+#numbuh4 {
+    background-color: #00ff2aa1;
+    font-weight: bold;
+}
